@@ -394,6 +394,7 @@ a {
 }
 
 .courses .course-item .book-btn {
+    font-size: 1.4rem;
     border: none;
 }
 
@@ -657,7 +658,7 @@ a {
 
 /* Footer */
 .footer {
-    padding: 96px 135px;
+    padding: 96px 135px 0;
     background: #2e2100;
 }
 
